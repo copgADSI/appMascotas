@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mis mascotas</string>
+    <string name="gender_unknown">Desconocido</string>
+    <string name="gender_male">Masculino</string>
+    <string name="gender_female">Femenino</string>
+    
+</resources>
